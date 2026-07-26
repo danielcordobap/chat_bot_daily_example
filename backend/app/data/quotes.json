@@ -1,0 +1,162 @@
+[
+  {
+    "id": "frankl-001",
+    "text": "Al hombre se le puede arrebatar todo salvo una cosa: la última de las libertades humanas, la elección de la actitud personal ante un conjunto de circunstancias.",
+    "author": "Viktor E. Frankl",
+    "source": "El hombre en busca de sentido",
+    "themes": ["sentido", "adversidad", "resiliencia"],
+    "verified": true
+  },
+  {
+    "id": "frankl-002",
+    "text": "Cuando ya no somos capaces de cambiar una situación, nos enfrentamos al desafío de cambiarnos a nosotros mismos.",
+    "author": "Viktor E. Frankl",
+    "source": "El hombre en busca de sentido",
+    "themes": ["cambio", "adversidad", "aceptacion"],
+    "verified": true
+  },
+  {
+    "id": "epicteto-001",
+    "text": "No son las cosas que nos pasan las que nos perturban, sino la opinión que tenemos sobre ellas.",
+    "author": "Epicteto",
+    "source": "Enquiridión",
+    "themes": ["aceptacion", "adversidad", "cambio"],
+    "verified": true
+  },
+  {
+    "id": "epicteto-002",
+    "text": "La felicidad no consiste en adquirir y disfrutar de la posesión de las cosas, sino en no desearlas.",
+    "author": "Epicteto",
+    "source": "Disertaciones por Arriano",
+    "themes": ["presente", "aceptacion", "autoestima"],
+    "verified": true
+  },
+  {
+    "id": "marcoaurelio-001",
+    "text": "Tienes poder sobre tu mente, no sobre los acontecimientos externos. Date cuenta de esto y encontrarás la fuerza.",
+    "author": "Marco Aurelio",
+    "source": "Meditaciones",
+    "themes": ["resiliencia", "adversidad", "aceptacion"],
+    "verified": true
+  },
+  {
+    "id": "marcoaurelio-002",
+    "text": "La mejor venganza es no ser como tu enemigo.",
+    "author": "Marco Aurelio",
+    "source": "Meditaciones",
+    "themes": ["compasion", "autoestima"],
+    "verified": true
+  },
+  {
+    "id": "seneca-001",
+    "text": "Sufrimos más a menudo en la imaginación que en la realidad.",
+    "author": "Séneca",
+    "source": "Cartas a Lucilio",
+    "themes": ["miedo", "adversidad", "aceptacion"],
+    "verified": true
+  },
+  {
+    "id": "seneca-002",
+    "text": "No es que tengamos poco tiempo, sino que perdemos mucho.",
+    "author": "Séneca",
+    "source": "Sobre la brevedad de la vida",
+    "themes": ["presente", "sentido"],
+    "verified": true
+  },
+  {
+    "id": "rogers-001",
+    "text": "La curiosa paradoja es que cuando me acepto tal como soy, entonces puedo cambiar.",
+    "author": "Carl Rogers",
+    "source": "El proceso de convertirse en persona",
+    "themes": ["aceptacion", "cambio", "autoestima"],
+    "verified": true
+  },
+  {
+    "id": "rogers-002",
+    "text": "Lo que es más personal es lo más universal.",
+    "author": "Carl Rogers",
+    "source": "El proceso de convertirse en persona",
+    "themes": ["compasion", "autoestima"],
+    "verified": true
+  },
+  {
+    "id": "beck-001",
+    "text": "Si nuestro pensamiento se empantana en significados distorsionados y simbólicos, nos volvemos ciegos a la realidad.",
+    "author": "Aaron T. Beck",
+    "source": "Terapia cognitiva de la depresión",
+    "themes": ["cambio", "adversidad"],
+    "verified": true
+  },
+  {
+    "id": "seligman-001",
+    "text": "El optimismo no consiste simplemente en decir cosas positivas, sino en cómo pensamos sobre la causa de nuestros contratiempos.",
+    "author": "Martin Seligman",
+    "source": "Aprenda optimismo",
+    "themes": ["esperanza", "resiliencia", "cambio"],
+    "verified": true
+  },
+  {
+    "id": "kabatzinn-001",
+    "text": "No puedes parar las olas, pero puedes aprender a surfear.",
+    "author": "Jon Kabat-Zinn",
+    "source": "Vivir con plenitud las crisis",
+    "themes": ["presente", "aceptacion", "resiliencia"],
+    "verified": true
+  },
+  {
+    "id": "kabatzinn-002",
+    "text": "Dondequiera que vayas, ahí estás.",
+    "author": "Jon Kabat-Zinn",
+    "source": "Mindfulness en la vida cotidiana",
+    "themes": ["presente", "aceptacion"],
+    "verified": true
+  },
+  {
+    "id": "linehan-001",
+    "text": "No puedes controlar las emociones de los demás, pero sí puedes aprender a validar tu propia experiencia emocional.",
+    "author": "Marsha M. Linehan",
+    "source": "Manual de tratamiento de los trastornos límite de la personalidad",
+    "themes": ["compasion", "aceptacion", "autoestima"],
+    "verified": true
+  },
+  {
+    "id": "yalom-001",
+    "text": "Tarde o temprano hay que renunciar a la esperanza de tener un pasado mejor.",
+    "author": "Irvin D. Yalom",
+    "source": "El don de la terapia",
+    "themes": ["aceptacion", "cambio", "esperanza"],
+    "verified": true
+  },
+  {
+    "id": "fromm-001",
+    "text": "El amor no es principalmente una relación con una persona específica; es una actitud, una orientación del carácter.",
+    "author": "Erich Fromm",
+    "source": "El arte de amar",
+    "themes": ["compasion", "autoestima", "sentido"],
+    "verified": true
+  },
+  {
+    "id": "fromm-002",
+    "text": "Si me amo a mí mismo, amo a todos los demás. Mientras no me ame a mí mismo, no puedo amar a nadie más.",
+    "author": "Erich Fromm",
+    "source": "El arte de amar",
+    "themes": ["autoestima", "compasion"],
+    "verified": true
+  },
+  {
+    "id": "spinoza-001",
+    "text": "No reírse de las acciones humanas, ni deplorarlas, ni detestarlas, sino comprenderlas.",
+    "author": "Baruch Spinoza",
+    "source": "Tratado político",
+    "themes": ["compasion", "aceptacion"],
+    "verified": true
+  },
+  {
+    "id": "nietzsche-001",
+    "text": "Quien tiene un porqué para vivir se puede enfrentar a todos los cómos.",
+    "author": "Friedrich Nietzsche",
+    "source": "El crepúsculo de los ídolos",
+    "themes": ["sentido", "resiliencia", "esperanza"],
+    "verified": true
+  }
+]

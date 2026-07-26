@@ -1,0 +1,45 @@
+{
+  "disclaimer": {
+    "badge": "PROYECTO EDUCATIVO",
+    "intro": "Este sistema es una demostración técnica de desarrollo con agentes LLM y LangGraph.",
+    "emphasis": "NO es un servicio de salud mental, ni una línea de emergencia, ni ofrece terapia clínica.",
+    "outro": "Si estás en situación de crisis, contacta los servicios de emergencia de tu localidad."
+  },
+  "header": {
+    "title": "Consejero de Apoyo Emocional",
+    "sessionLabel": "ID Sesión:",
+    "sessionStarting": "Iniciando...",
+    "newSession": "Nueva Sesión",
+    "newSessionTitle": "Iniciar nueva conversación"
+  },
+  "empty": {
+    "title": "Bienvenido al Consejero de Apoyo Emocional",
+    "body": "Este espacio está diseñado para escucharte y ofrecerte reflexiones orientativas. Escribe cómo te sientes hoy para comenzar la conversación."
+  },
+  "input": {
+    "placeholder": "Escribe tu mensaje aquí...",
+    "send": "Enviar",
+    "stop": "Detener",
+    "stopTitle": "Detener la respuesta"
+  },
+  "crisis": {
+    "title": "Soporte y Recursos de Emergencia",
+    "subtitle": "Tu seguridad y salud son lo más importante",
+    "resourcesTitle": "Líneas y Canales Disponibles:",
+    "contact": "Contacto:",
+    "hours": "Horario:",
+    "unconfigured": "Nota: para configurar las líneas de ayuda oficiales de tu región, completa el archivo backend/app/data/crisis_resources.json."
+  },
+  "errors": {
+    "threadCreate": "No se pudo crear la sesión de chat.",
+    "server": "Error del servidor (HTTP {status}).",
+    "network": "Error de conexión con el servidor.",
+    "unknown": "Ocurrió un error inesperado."
+  },
+  "language": {
+    "label": "Idioma",
+    "es": "Español",
+    "en": "English",
+    "switchTo": "Cambiar idioma a {lang}"
+  }
+}

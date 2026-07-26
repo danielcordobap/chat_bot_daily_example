@@ -1,0 +1,10 @@
+{
+  "configured": false,
+  "regions": {
+    "default": {
+      "label": "Sin configurar",
+      "message": "Este proyecto es una demostración educativa y no incluye recursos de emergencia configurados. Si estás en peligro, contacta los servicios de emergencia de tu país.",
+      "resources": []
+    }
+  }
+}

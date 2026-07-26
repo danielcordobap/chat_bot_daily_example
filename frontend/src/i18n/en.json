@@ -1,0 +1,45 @@
+{
+  "disclaimer": {
+    "badge": "EDUCATIONAL PROJECT",
+    "intro": "This system is a technical demonstration of LLM agent development using LangGraph.",
+    "emphasis": "It is NOT a mental health service, nor an emergency hotline, nor does it offer clinical therapy.",
+    "outro": "If you are in a crisis situation, please contact your local emergency services."
+  },
+  "header": {
+    "title": "Emotional Support Advisor",
+    "sessionLabel": "Session ID:",
+    "sessionStarting": "Starting...",
+    "newSession": "New Session",
+    "newSessionTitle": "Start new conversation"
+  },
+  "empty": {
+    "title": "Welcome to the Emotional Support Advisor",
+    "body": "This space is designed to listen to you and offer reflective guidance. Type how you are feeling today to start the conversation."
+  },
+  "input": {
+    "placeholder": "Type your message here...",
+    "send": "Send",
+    "stop": "Stop",
+    "stopTitle": "Stop generating"
+  },
+  "crisis": {
+    "title": "Support and Emergency Resources",
+    "subtitle": "Your safety and health are what matters most",
+    "resourcesTitle": "Available Lines and Channels:",
+    "contact": "Contact:",
+    "hours": "Hours:",
+    "unconfigured": "Note: to configure official help lines for your region, complete the file backend/app/data/crisis_resources.json."
+  },
+  "errors": {
+    "threadCreate": "Could not create chat session.",
+    "server": "Server error (HTTP {status}).",
+    "network": "Connection error with the server.",
+    "unknown": "An unexpected error occurred."
+  },
+  "language": {
+    "label": "Language",
+    "es": "Español",
+    "en": "English",
+    "switchTo": "Switch language to {lang}"
+  }
+}
