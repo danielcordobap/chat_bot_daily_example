@@ -2,8 +2,12 @@
 # El repositorio publica solo lo necesario para ejecutar la app.
 CLAUDE.md
 EJECUTAR.md
+SKILLS_Y_SUBAGENTES.md
 .claude/
 Handoff_for_devs/
+CONST_BiT/
+dev_bitacoras/
+blog/
 docs/
 spikes/
 
